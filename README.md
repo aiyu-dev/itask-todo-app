@@ -56,6 +56,11 @@ npm run dev
 5. Open the local URL shown in the terminal (usually
 http://localhost:5173 ).
 
+## 🎓 Credits
+This project was built as part of my learning journey,
+following the tutorial by [CodeWithHarry](https://www.youtube.com/@CodeWithHarry). I typed and built the complete project myself while learning React, localStorage, and deployment.
+
+
 ## 👩‍💻 Author
 
 *Ayesha Shahzad*
